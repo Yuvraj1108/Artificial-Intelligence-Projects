@@ -3,6 +3,8 @@
 I designed a car using Kivy framework used 3 sensors in the car to perceive the enviornment.
 Then I trained the car using Reinforcement Learning(Deep Q Network)
 
+[![Working Video](demo.png)](demo.mp4)
+
 ## Requirements
 
 * [Kivy](https://kivy.org/#home)
